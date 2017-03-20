@@ -21,5 +21,7 @@ How much space are online advertisements occupying? How high is the percentage o
 
 Is it possible to scrape every single advertisement that is blocked by a ad blocker? How much would that be per hour/day/week etc. ?
 
+How much data (wifi or mobile) is used for loading the advertisements? This is in particular intereseting for mobile devices because there the costs for internet are calculated through downloaded mb and are higher than wifi or broadband internet costs. 
+Interactive ads need more data. Simple one-picture ads of course need less. 
 
-
+Lies the ad blocker on top of the ads? Does it actually need some extra data to block it? (We found out that an ad blocker is blocking the ad server so the answer is - no, the ads aren't even loading)
