@@ -19,7 +19,7 @@ In how far are they entering our privacy?
 
 How much space are online advertisements occupying? How high is the percentage of ads from the whole site or screen size?
 
-Is it possible to scrape every single advertisement that is blocked by a ad blocker? How much would that be per hour/day/week etc. ?
+Is it possible to scrape every single advertisement that is blocked by a ad blocker? How much would that be per hour/day/week  or during a specific self chosen period of time?
 
 How much data (wifi or mobile) is used for loading the advertisements? This is in particular intereseting for mobile devices because there the costs for internet are calculated through downloaded mb and are higher than wifi or broadband internet costs. 
 Interactive ads need more data. Simple one-picture ads of course need less. 
