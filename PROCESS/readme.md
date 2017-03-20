@@ -17,3 +17,9 @@ What kind of information is lying behind those ads, especially from automaticall
 In how far are they entering our privacy?
 
 
+How much space are online advertisements occupying? How high is the percentage of ads from the whole site or screen size?
+
+Is it possible to scrape every single advertisement that is blocked by a ad blocker? How much would that be per hour/day/week etc. ?
+
+
+
