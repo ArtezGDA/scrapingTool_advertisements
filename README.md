@@ -1,6 +1,6 @@
-# scrapingTool_advertisements
+# AD MINER
 
-Project for Scraping Tools: information about advertisements on the web
+CHROME PLUGIN TO MINING AD DATA
 
 ## Project owners:
 - Remo
