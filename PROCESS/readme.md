@@ -19,6 +19,7 @@ for example seeing a webpage as a grid - all fields that would be filled with ad
 - In how far are they entering our privacy?
 - How much space are online advertisements occupying? 
 - How high is the percentage of ads from the whole site or screen size?
+- Lies the ad blocker on top of the ads? Does it actually need some extra data to block it? (We found out that an ad blocker is blocking the ad server so the answer is - no, the ads aren't even loading)
 
 
 Is it possible to scrape every single advertisement that is blocked by a ad blocker? How much would that be per hour/day/week  or during a specific self chosen period of time?
@@ -26,16 +27,16 @@ Is it possible to scrape every single advertisement that is blocked by a ad bloc
 How much data (wifi or mobile) is used for loading the advertisements? This is in particular intereseting for mobile devices because there the costs for internet are calculated through downloaded mb and are higher than wifi or broadband internet costs. 
 Interactive ads need more data. Simple one-picture ads of course need less. 
 
-Lies the ad blocker on top of the ads? Does it actually need some extra data to block it? (We found out that an ad blocker is blocking the ad server so the answer is - no, the ads aren't even loading)
 
 
-Creating a plug-in for internet browsers
-x it should be simple to understand and to use
-x information visualized through a graph
 
-What kind of information do we want to scrape exactly?
-x loading times for a whole page (not only ad)
-x what % of the whole loading time of the page was for ads?
-x for the day, how much of your time have ads taken up?
-x exact data: mb's, per day, month, since you downloaded the plug-in, chose yourself a specific period
+### Creating a plug-in for internet browsers
+- it should be simple to understand and to use
+- information visualized through a graph
+
+### What kind of information do we want to scrape exactly?
+- loading times for a whole page (not only ad)
+- what % of the whole loading time of the page was for ads?
+- for the day, how much of your time have ads taken up?
+- exact data: mb's, per day, month, since you downloaded the plug-in, chose yourself a specific period
 
