@@ -20,10 +20,12 @@ visualises information through a graph
 
 
 ### What can it scrape?
-- the exact loading times for a whole page (not only ad) for one internet session
-- the percentage of the loading time that was used for ads 
-- the amount of time it took to load ads for a whole day? 
-- exact data: mb's, per day, month, since you downloaded the plug-in, you can chose what you want to scrape 
+- the exact loading times for a whole page for one internet session
+- the percentage of the loading time (mentioned above) that was needed for ads 
+- the amount of time it took to load ads for a whole day 
+- exact and customized data: 
+###### mb's: 
+     -  per day, month, since you downloaded the plug-in, you can chose what you want to scrape 
 
 
 
