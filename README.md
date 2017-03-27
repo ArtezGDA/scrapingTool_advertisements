@@ -6,3 +6,5 @@ CHROME PLUGIN TO MINING AD DATA
 - Remo
 - Katherine
 - Pamina
+
+** NOT WORKING - ONLY PROTOTYPE **
