@@ -3,15 +3,16 @@
 
 
 
+
+
+# AD MINER
+
+### **CHROME PLUGIN TO MINING AD DATA**
+
 ###### Project of:
 - Remo Deijns
 - Katherine Wimett
 - Pamina Reisinger
-
-# AD MINER
-
-## **CHROME PLUGIN TO MINING AD DATA**
-
 ### Concept & Idea
 
 If you're not using an adblocker those online advertisements can be quite irritating. Besides that they aren’t only occupying space on your screen but also take time and even more important data to (down)load. 
