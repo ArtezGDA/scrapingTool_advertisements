@@ -32,5 +32,7 @@ We want to then compare interactive ads that give you the possibility to play ga
 - exact and customized data: mb/s: per day, month, since you downloaded the plug-in, you can chose what you want to scrape 
 
 
-
+###### What does this Github page contain?
+- Folder Demo-Prototype: The actual and final prototype
+- Folder Proces: Contains information of the group discussions, ideas, questions and thoughts
 
