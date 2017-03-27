@@ -1,4 +1,4 @@
-**NO WORKING TOOL - ONLY PROTOTYPE** 
+***NO WORKING TOOL - ONLY PROTOTYPE*** 
 
 ###### Project of:
 - Remo Deijns
@@ -7,7 +7,7 @@
 
 # AD MINER
 
-***CHROME PLUGIN TO MINING AD DATA***
+## **CHROME PLUGIN TO MINING AD DATA**
 
 ### CONCEPT
 
