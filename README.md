@@ -1,10 +1,11 @@
-***NO WORKING TOOL - ONLY PROTOTYPE*** 
+***! attention !***
+**This Github doesn't contain a working tool. ONLY PROTOTYPE! ** 
 
 
 
 ###### Project of:
 - Remo Deijns
-- Katherine Wimet
+- Katherine Wimett
 - Pamina Reisinger
 
 # AD MINER
